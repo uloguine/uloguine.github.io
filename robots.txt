@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uloguine.github.io/KHp/sitemap_index.txt
+Sitemap: https://uloguine.github.io/NMJ/sitemap_index.txt
+Sitemap: https://uloguine.github.io/ZVA/sitemap_index.txt
+Sitemap: https://uloguine.github.io/uym/sitemap_index.txt
